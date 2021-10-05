@@ -1,3 +1,9 @@
+.home {
+  text-align: center;
+  font-size: x-large;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: burlywood;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +41,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Product {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 5vh;
+  color: #c07e48;
+}
+
+.photo {
+  height: 50vh;
+  width: 50vh;
 }
